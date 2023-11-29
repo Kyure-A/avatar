@@ -1,7 +1,7 @@
 # avatar
 
 ## めるアイコン
-![Kyure_A' icon](./kyure_a.jpg)
+![Kyure_A' icon](./src/draw_by_melville.jpg)
 
 [第 5 回プランクトンサミット](https://plankton-summit.com/)にて [Melville](https://twitter.com/MelvilleTw) さんに描いていただきました。
 
@@ -12,22 +12,29 @@
 ありがとうございます！
 
 ## く゚ アイコン
-![Kyure_A's icon](./ku_kyure_a.png)
+![Kyure_A's icon](./src/draw_by_ku.jpg)
 
 [く゚](https://twitter.com/qiwdu) さんに描いていただきました。
 本アイコンの著作権は [く゚](https://twitter.com/qiwdu) さんに帰属します。
 
 ありがとうございます！
 
+## unknown アイコン
+![Kyure_A's icon](./src/draw_by_unknown.jpg)
+[unknown](https://twitter.com/PuddingsTheorem) さんに ![FA](https://twitter.com/PuddingsTheorem/status/1728960070783017104) として描いていただきました。
+本アイコンの著作権は [unknown](https://twitter.com/PuddingsTheorem) さんに帰属します。
+
+ありがとうございます！
+
 ## Minecraft Skin
-![Kyure_A's Minecraft Skin](./skin_preview.png)
+![Kyure_A's Minecraft Skin](./src/skin_preview.png)
 
 ## 古いアイコン
-![Kyure_A's icon (old)](./old_kyure_a.jpg) 
+![Kyure_A's icon (old)](./src/origin.jpg) 
 
 [MakeGirlsMoe](https://make.girls.moe/)（モデルはなんだったか忘れた）で生成した美少女で，上に示したアイコン群の元ネタです
 
 ## [Identicon](https://github.blog/2013-08-14-identicons/)
-![Identicon](./identicon.png)
+![Identicon](./src/identicon.png)
 
 競技プログラミングとかのクールぶりたい文脈でよく使うアイコンです
